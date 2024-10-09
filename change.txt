@@ -1,2 +1,3 @@
 passo 7 - simulando mudança
 simulando mudança 2
+mudança conflito dir 1
