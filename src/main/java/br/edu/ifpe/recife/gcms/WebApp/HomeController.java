@@ -15,5 +15,10 @@ public class HomeController {
 	public @ResponseBody String greetingLuis() {
 	return "Hello, Luis!";
 	}
+	
+	@RequestMapping("/hotfix")
+	public @ResponseBody String greetingHotfix() {
+	return "Hello, Hotfix!";
+	}
 
 }
